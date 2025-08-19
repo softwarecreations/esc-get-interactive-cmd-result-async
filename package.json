@@ -14,8 +14,24 @@
     "url": "git+https://github.com/softwarecreations/esc-get-interactive-cmd-result-async.git"
   },
   "keywords": [
-    "minimal-dependencies",
-    "simple"
+    "no-dependencies",
+    "simple",
+    "child_process",
+    "spawn",
+    "command",
+    "shell",
+    "interactive",
+    "promise",
+    "nodejs",
+    "process",
+    "env",
+    "subprocess",
+    "terminal",
+    "run",
+    "execute",
+    "utility",
+    "cli",
+    "typescript"
   ],
   "author": "softwarecreations",
   "license": "MIT",
