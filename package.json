@@ -1,8 +1,9 @@
 {
   "name": "esc-get-interactive-cmd-result-async",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "async function that runs a shell command with arguments and environment variables, full interactive stdin/stdout/stderr usability (eg: run and use nano). Resolves/rejects with your command's return code.",
   "main": "main.mjs",
+  "types": "main.d.ts",
   "dependencies": {
   },
   "devDependencies": {},

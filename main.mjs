@@ -41,3 +41,5 @@ export const runInteractivelyP = (
     });
   });
 };
+
+export default runInteractivelyP;

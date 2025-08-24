@@ -8,13 +8,13 @@ Run any terminal command fully interactively from Node.js. Inherit stdio so the 
 - All stdio is **live**—for full interactive experience
 - Output & input visible to user, as if run from your shell
 
-## See my other NPM modules for capturing output from passive commands
+## My other NPM modules for capturing output from passive commands
 
-### Capture stdout or get custom arrays on error
+### Capture stdout or get custom arrays on error afterwards
 
 [esc-get-cmd-stdout-array-promise](https://www.npmjs.com/package/esc-get-cmd-stdout-array-promise)
 
-### Capture std out/err with advanced capture/filtering
+### Capture std out/err with optional advanced easy capture/filtering, error handling, live output passthru
 
 [esc-get-cmd-data-passthru-async](https://www.npmjs.com/package/esc-get-cmd-data-passthru-async)
 

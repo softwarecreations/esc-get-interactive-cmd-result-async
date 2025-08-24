@@ -14,3 +14,5 @@ export declare function runInteractivelyP(
   argsA?: string[],
   optionsO?: RunInteractivelyOptions
 ): Promise<number>;
+
+export default runInteractivelyP;
